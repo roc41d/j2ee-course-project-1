@@ -8,3 +8,7 @@
 
 #### More resources
 + [download link](https://www.dropbox.com/sh/p64b44uur32j1hc/AABNRZ7SdCYvnsioI37Ht_w8a?dl=0)
+
+NB: To run the code for EJB – MESSAGE DRIVEN BEANS
+Copy 'jbossmq-destinations-service.xml' from the Resources folder, download from the link provided above to 
+jboss-5.1.0.GA -> server -> default -> deploy
